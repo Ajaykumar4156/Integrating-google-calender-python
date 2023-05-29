@@ -1,2 +1,3 @@
 # Integrating-google-calender-python
-In this project, i have done google calendar integration using django rest api
+This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
+
